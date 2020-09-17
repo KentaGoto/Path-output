@@ -8,3 +8,6 @@ Copy the output result to the clipboard with the following command.
 
 ## Requires  
 - Windows  
+
+## License
+MIT
