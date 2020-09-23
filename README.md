@@ -11,3 +11,6 @@ Copy the output result to the clipboard with the following command.
 
 ## License
 MIT
+
+## Author  
+Kenta Goto
